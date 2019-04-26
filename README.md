@@ -1,3 +1,3 @@
-# deep-learning-RNN-gen-tv-script
+## DEEP LEARNING - TV SCRIPT GENERATOR PROJECT
 
-Code for Udacity`s Deep Learning course project, on generating new tv script based on previous inputed data.
+In this project, I've built an algorithm that, given generates new a new tv script, based on previous training data.
